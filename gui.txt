@@ -1,0 +1,3 @@
+lets openexplore
+new line
+gui modification after unstaged from the staging area for the first time
