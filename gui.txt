@@ -3,3 +3,4 @@ new line
 gui modification after unstaged from the staging area for the first time
 lets modify
 not ignored
+adksodfjbspivdfj
